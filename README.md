@@ -1,7 +1,6 @@
 # 🏃 EscapeBall 2D
 
 ![Engine](https://img.shields.io/badge/Engine-Unity%20202X-black)
-![Status](https://img.shields.io/badge/Status-Archived-grey)
 
 ## 📂 Project Overview
 **EscapeBall 2D** is a vertical runner game developed in **2022**. The project focuses on `Rigidbody2D` interactions and gravity-based movement mechanics.
@@ -24,10 +23,13 @@ The objective is to navigate a falling ball through rotating geometric obstacles
   <img src="media/main-menu.jpeg" width="30%" />
 </p>
 
+## 🎮 Gameplay Video
+Click the image below to watch the gameplay:
+
+[![EscapeBall 2D Gameplay](https://img.youtube.com/vi/1IKZs9kQKD4/hqdefault.jpg)](https://youtu.be/1IKZs9kQKD4?t=46)
+
 ## 📅 Project Info
-* **First Commit:** 2022
 * **Stack:** Unity 2D, C#
 * **Note:** This project serves as an archive of my earlier work with Unity physics engine.
 
 ---
-*Developed by Mehmet Can Demir*
